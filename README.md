@@ -44,3 +44,7 @@ The Balatro Multiplayer mod checks client mod lists, so using this in ranked pla
 ## Development
 
 `dev/tests/test.lua` checks the counting and display rules against mocked game objects (run with Python's `lupa`). `dev/icon-source.py` draws the raven mod icon.
+
+## License
+
+Public domain under [the Unlicense](LICENSE). Use, copy, change, or share it however you like.
