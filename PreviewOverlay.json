@@ -1,0 +1,13 @@
+{
+    "id": "PreviewOverlay",
+    "name": "Preview Overlay",
+    "display_name": "Preview Overlay",
+    "author": ["Omen"],
+    "description": "Shows how many cards of each hand card's rank, and of its exact rank and suit, are left in your draw pile. Display only.",
+    "prefix": "pov",
+    "main_file": "main.lua",
+    "version": "1.0.0",
+    "priority": 0,
+    "badge_colour": "4F6367",
+    "dependencies": ["Steamodded (>=1.0.0~BETA-1620a)"]
+}
